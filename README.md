@@ -238,7 +238,7 @@ Erken sürüm (**0.2**). Tek bir kurulumda geliştirildi ve kullanıldı; pürü
 
 **Muhittin Efecan Türk**  
 *Full Stack & iOS/macOS Developer*  
-- **GitHub:** [@muhittinefecanturk](https://github.com/muhittinefecanturk)
+- **GitHub:** [@muhittinefecanturk](https://github.com/muhittinefecan-turk)
 
 ---
 
