@@ -238,7 +238,7 @@ Inspired by [PodsControlMac](https://github.com/sumionochi/PodsControlMac) and b
 
 **Muhittin Efecan Türk**  
 *Full Stack & iOS/macOS Developer*  
-- **GitHub:** [@muhittinefecanturk](https://github.com/muhittinefecanturk)
+- **GitHub:** [@muhittinefecanturk](https://github.com/muhittinefecan-turk)
 
 ---
 
